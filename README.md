@@ -12,7 +12,7 @@ Birds Network Ground Station Terminal, SETECLab's implementation
 ### Board v2.7
 
 * [Schematic](https://github.com/Setec-Lab/birds_gst/blob/dev/docs/GST_PCB_v2.7.pdf)
-* [BOM](https://github.com/Setec-Lab/birds_gst/blob/dev/docs/Partlist_for_GST_PCB_v2.7)
+* [BOM](https://github.com/Setec-Lab/birds_gst/blob/dev/docs/Partlist_for_GST_PCB_v2.7.pdf)
 * [Guide](https://github.com/Setec-Lab/birds_gst/blob/dev/docs/Guide_to_use_GST_PCB.pdf)
 
 ### DS18B20
