@@ -1,26 +1,26 @@
-LoRa Sensor Gateway for SETECLab's Ground Station Terminal  
+Birds Network Ground Station Terminal, SETECLab's implementation
 ============
 
 ### Most recent version of this repository can be found in: ###
 
-* [GitHub](https://github.com/Setec-Lab/gst_lsg)
+* [GitHub](https://github.com/Setec-Lab/birds_gst)
 
 ### What is this repository for? ###
 
-* This repository was created to develop a LoRa Sensor Gateway for the SETECLab's custom GST. 
+* This repository was created to develop the SETECLab's implementation of the Birds Network Ground Station Terminal. 
 
-### HELTEC LoRa 32 board information
+### Board v2.7
 
-* [Documentation page](https://heltec.org/project/wifi-lora-32/)
-* [Pinout diagram](https://resource.heltec.cn/download/WiFi_LoRa_32/WIFI_LoRa_32_V2.pdf)
-* [Schematic](https://resource.heltec.cn/download/WiFi_LoRa_32/V2/WIFI_LoRa_32_V2(868-915).PDF)
-* [ESP32 datasheet](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf) 
+* [Schematic]()
+* [BOM]()
 
-### MCP9600 I2C Thermocouple Amplifier
+### DS18B20
 
-* [Datasheet](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-mcp9600-i2c-thermocouple-amplifier.pdf) 
+* [Datasheet](https://cdn.sparkfun.com/datasheets/Sensors/Temp/DS18B20.pdf) 
+* [Implementation example](https://create.arduino.cc/projecthub/TheGadgetBoy/ds18b20-digital-temperature-sensor-and-arduino-9cc806)
 
 ### Enclousure
+
 
 
 ### How do I get set up? ###
@@ -39,9 +39,6 @@ Search `Adafruit MQTT` and install it.
 * Install Adafruit MCP9600 Library in the Arduino Library Manager
 Open Arduino IDE, then Select `Sketch`->`Include Library`->`Manage Libraries...`
 Search `Adafruit MCP9600 Library` and install it.
-
-### Library source code and examples
-* [Adafruit_MQTT_Library](https://github.com/adafruit/Adafruit_MQTT_Library)
 
 ### Contribution guidelines ###
 
