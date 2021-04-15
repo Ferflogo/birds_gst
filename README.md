@@ -20,6 +20,14 @@ Birds Network Ground Station Terminal, SETECLab's implementation
 * [Datasheet](https://cdn.sparkfun.com/datasheets/Sensors/Temp/DS18B20.pdf) 
 * [Implementation example](https://create.arduino.cc/projecthub/TheGadgetBoy/ds18b20-digital-temperature-sensor-and-arduino-9cc806)
 
+### LTC3119
+
+* [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/3119fb.pdf)
+
+### RF98
+* [Datasheet](https://datasheetspdf.com/pdf-file/748004/HOPERF/RF98/1)
+
+
 ### Enclousure
 
 
