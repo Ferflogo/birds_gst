@@ -15,14 +15,14 @@ Birds Network Ground Station Terminal, SETECLab's implementation
 * [BOM](https://github.com/Setec-Lab/birds_gst/blob/dev/docs/Partlist_for_GST_PCB_v2.7.pdf)
 * [Guide](https://github.com/Setec-Lab/birds_gst/blob/dev/docs/Guide_to_use_GST_PCB.pdf)
 
-### DS18B20
+### DS18B20 Temp. Sensor
 
 * [Datasheet](https://cdn.sparkfun.com/datasheets/Sensors/Temp/DS18B20.pdf) 
 * [Implementation example](https://create.arduino.cc/projecthub/TheGadgetBoy/ds18b20-digital-temperature-sensor-and-arduino-9cc806)
 
-### LTC3119
+### LM2830XMF/NOPB Step Down DC/DC Regulator
 
-* [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/3119fb.pdf)
+* [Datasheet](https://pdf1.alldatasheet.com/datasheet-pdf/view/753277/TI/LM2830XMF/NOPB.html)
 
 ### RF98
 * [Datasheet](https://datasheetspdf.com/pdf-file/748004/HOPERF/RF98/1)
